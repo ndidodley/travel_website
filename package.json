@@ -1,0 +1,9 @@
+{
+  "name": "travel_website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.1.2"
+  }
+}
