@@ -3,8 +3,12 @@ module.exports = {
     theme: {
         extend: {
             colors: {
+                'extra': {
+                    1: '#59B1E6',
+                    2: ''
+                },
                 'text': {
-                    100: '',
+                    100: '#84829A',
                     200: '#5E6282',
                     300: '',
                     400: '',
